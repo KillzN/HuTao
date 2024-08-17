@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', false],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', false],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true], 
+  ['50768300980', 'Senki', true],
+  ['50768300980', 'Senki', true], 
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'], 
+  ['50768300980'],  
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'], 
+  ['50768300980'], 
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'], 
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980'],
+  ['50768300980']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['50768300980'];
+global.prems = ['50768300980'];
 
 global.packname = 'Sticker';
-global.author = 'KillzN';
-global.wm = 'KillzN';
-global.titulowm = 'KillzN';
-global.titulowm2 = `KillzN`
-global.igfg = 'KillzN';
+global.author = 'Senki';
+global.wm = 'Senki';
+global.titulowm = 'Senki';
+global.titulowm2 = `Senki`
+global.igfg = 'Senki';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKillzN`;
-global.gt = 'KillzN';
-global.mysticbot = 'KillzN';
-global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
+global.wm2 = `${dia} ${fecha}\nSenki`;
+global.gt = 'Senki';
+global.mysticbot = 'Senki';
+global.channel = 'https://whatsapp.com/channel/0029VakR3v05vKAAl3j5bU2L';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '50768300980';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
