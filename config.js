@@ -11,43 +11,43 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', false],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true], 
-  ['50768300980', 'Senki', true],
-  ['50768300980', 'Senki', true], 
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'], 
-  ['50768300980'],  
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'], 
-  ['50768300980'], 
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'], 
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980'],
-  ['50768300980']
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', false],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true], 
+  ['56972825435', 'Senki', true],
+  ['56972825435', 'Senki', true], 
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'], 
+  ['56972825435'],  
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'], 
+  ['56972825435'], 
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'], 
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435'],
+  ['56972825435']
 ];
 
-global.suittag = ['50768300980'];
-global.prems = ['50768300980'];
+global.suittag = ['56972825435'];
+global.prems = ['56972825435'];
 
 global.packname = 'Sticker';
 global.author = 'Senki';
@@ -88,7 +88,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '50768300980';
+global.nomorown = '56972825435';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

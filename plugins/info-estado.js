@@ -32,7 +32,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} Senki
-  ${tradutor.texto1[2]} +50768300980
+  ${tradutor.texto1[2]} +56972825435
   ${tradutor.texto1[3]} https://whatsapp.com/channel/0029VakR3v05vKAAl3j5bU2L
 
   ${tradutor.texto1[4]} ${rtime}
